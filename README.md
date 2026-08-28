@@ -1,5 +1,10 @@
 # dsh-prompt-enhancer
 
+![License](https://img.shields.io/github/license/yaoshuo530/dsh-prompt-enhancer)
+![Release](https://img.shields.io/github/v/release/yaoshuo530/dsh-prompt-enhancer)
+![CI](https://github.com/yaoshuo530/dsh-prompt-enhancer/actions/workflows/ci.yml/badge.svg)
+[中文](README.zh.md)
+
 A prompt-enhancement plugin for [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness) (DSH): an **"✨ Enhance"** button in the composer that rewrites your draft prompt into a more detailed, clearer, and structured version using **first-principles thinking** — grounded in your session context, memory, and recent conversation. When key information is missing, it asks you through a clarification card before generating.
 
 ## Features
