@@ -1,0 +1,3 @@
+# dsh-prompt-enhancer 安装清单：把插件行插入 profile 配置
+- insert:
+    - name: dsh-prompt-enhancer
