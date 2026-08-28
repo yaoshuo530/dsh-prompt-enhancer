@@ -2,6 +2,19 @@
   "name": "dsh-prompt-enhancer",
   "version": "0.1.0",
   "description": "Prompt enhancement plugin for DeepSeek Harness: an \"✨ Enhance\" composer button that rewrites prompts with first-principles thinking using session context, and asks clarifying questions when key info is missing.",
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "cordis",
+    "plugin",
+    "prompt-engineering",
+    "prompt-enhancer",
+    "llm",
+    "ai-assistant"
+  ],
+  "scripts": {
+    "check": "node --check lib/index.js && node --check lib/client.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yaoshuo530/dsh-prompt-enhancer.git"
